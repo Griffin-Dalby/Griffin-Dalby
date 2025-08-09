@@ -1,3 +1,10 @@
-- 👋 Hello! I'm Griffin Dalby, an advanced full-stack roblox developer with focus on clean, efficient, and scalable programming.
-- 🏋️‍♂️ My main focus is shipping nothing but high-quality code and impressive products.
-- 🌱 I’m currently building Sawdust, and working on multile games for different studios! To learn more, [check out my portfolio!](https://griffin-dalby.github.io/portfolio/)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary> 
+      <h1>Hello! My name is Griffin.</h1><br>
+      <p>and I really appreciate you taking your time to read this ❤️</p>
+    </summary>
+  </ul>
+</div>
+
+And this is still in progress...
