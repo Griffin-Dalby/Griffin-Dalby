@@ -1,3 +1,3 @@
 - 👋 Hello! I'm Griffin Dalby, an advanced full-stack roblox developer with focus on clean, efficient, and scalable programming.
 - 🏋️‍♂️ My main focus is shipping nothing but high-quality code and impressive products.
-- 🌱 I’m currently participating in the RoDevs Gamejam and working on Anime Frontiers for Lost Hope Studios.
+- 🌱 I’m currently building Sawdust, and working on multile games for different studios! To learn more, [check out my portfolio!](https://griffin-dalby.github.io/portfolio/)
