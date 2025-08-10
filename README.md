@@ -11,7 +11,7 @@
 <p align="center">
   I'm a full-stack developer, specializing in Roblox Game Development with <strong>six years</strong> of experience with both the Engine & LuaU.<br>
   I take pride in developing <strong>advanced, and technical architecture & game logic.</strong><br>
-  As an example, please <a href="https://github.com/Griffin-Dalby/Sawdust">take a look at Sawdust</a>; my premier development library.
+  As an example of my technical skills, please <a href="https://github.com/Griffin-Dalby/Sawdust">take a look at Sawdust</a>; my premier development library.
 </p>
 
 ---
