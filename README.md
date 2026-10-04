@@ -11,7 +11,7 @@
 <p align="center">
   I'm a full-stack programmer, specializing in Roblox Game Development with <strong>seven years</strong> of experience with both the Engine & LuaU.<br>
   I take pride in developing <strong>advanced, technical architecture, and game logic,</strong> and I enjoy making bulletproof systems.<br>
-  Examples of what I've worked on & my skills can <a href="https://griffin-dalby.github.io/portfolio/">be found on my portfolio</a>!
+  Examples of what I've worked on & my skills can <a href="https://griffin-dalby.github.io/portfolio/" target="_blank">be found on my portfolio</a>!
 </p>
 
 ---
